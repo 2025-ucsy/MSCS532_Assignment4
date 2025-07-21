@@ -22,5 +22,7 @@ This repository contains Python implementations and analysis for heap-based data
 2. Clone or download this repository.
 3. Run the analysis script from the terminal:
 
-   ```bash
    python empirical_analysis.py
+
+## Output Results
+<img width="1920" height="1033" alt="result" src="https://github.com/user-attachments/assets/282c69a9-deb4-420e-a98f-c3be5310737a" />
